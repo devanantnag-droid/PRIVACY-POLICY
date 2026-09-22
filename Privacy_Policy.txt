@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Privacy Policy — AURAED SCHOOL</title>
+<style>
+  :root {
+    --ink: #1C283D;
+    --ink-light: #2C4064;
+    --gold: #B8863E;
+    --paper: #F6F4EF;
+    --text: #24344D;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, 'IBM Plex Sans', 'Segoe UI', Roboto, Arial, sans-serif;
+    background: var(--paper);
+    color: var(--text);
+    line-height: 1.65;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #15181C;
+      --text: #E5E7EB;
+      --muted: #9aa3af;
+      --border: #2a2f36;
+    }
+    body { background: var(--paper); }
+  }
+  :root[data-theme="dark"] {
+    --paper: #15181C;
+    --text: #E5E7EB;
+    --muted: #9aa3af;
+    --border: #2a2f36;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 48px 20px 80px; }
+  header { margin-bottom: 36px; }
+  h1 {
+    font-family: Georgia, 'Fraunces', serif;
+    font-size: 30px;
+    color: var(--ink);
+    margin: 0 0 6px 0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) h1 { color: #E5E7EB; }
+  }
+  :root[data-theme="dark"] h1 { color: #E5E7EB; }
+  .updated { color: var(--muted); font-size: 14px; margin: 0; }
+  h2 {
+    font-family: Georgia, 'Fraunces', serif;
+    font-size: 19px;
+    color: var(--ink-light);
+    margin: 36px 0 10px 0;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) h2 { color: #B6C2D6; }
+  }
+  :root[data-theme="dark"] h2 { color: #B6C2D6; }
+  h3 { font-size: 15px; color: var(--text); margin: 18px 0 6px 0; }
+  p, li { font-size: 15px; }
+  ul { padding-left: 20px; }
+  li { margin-bottom: 6px; }
+  .callout {
+    background: rgba(184,134,62,0.08);
+    border-left: 3px solid var(--gold);
+    padding: 12px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin: 16px 0;
+  }
+  .placeholder {
+    background: #fef3c7;
+    color: #92400e;
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 0.95em;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) .placeholder { background: #78350f; color: #fde68a; }
+  }
+  :root[data-theme="dark"] .placeholder { background: #78350f; color: #fde68a; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; margin: 12px 0; }
+  th, td { text-align: left; padding: 8px 10px; border: 1px solid var(--border); vertical-align: top; }
+  th { background: rgba(0,0,0,0.03); font-weight: 600; }
+  footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--border); font-size: 13px; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Privacy Policy</h1>
+  <p class="updated">AURAED SCHOOL — Last updated: <span class="placeholder">22-09-2026</span></p>
+</header>
+
+<div class="callout">
+  This policy is written for schools, teachers, parents, students, and
+  staff using the AURAED SCHOOL app and website. If you're a parent or
+  student, your school is the one who decided to use AURAED SCHOOL and
+  set up your account — for questions about your own data, your
+  school's office is usually the fastest way to get an answer, and they
+  can also reach us directly.
+</div>
+
+<h2>Who this policy covers</h2>
+<p>
+This policy applies to everyone who uses AURAED SCHOOL: School
+Administrators and office staff, teachers, students, parents/guardians,
+and transport drivers, across our website, Windows desktop app, and
+Android app.
+</p>
+
+<h2>Who operates AURAED SCHOOL</h2>
+<p>
+AURAED SCHOOL is operated by <span class="placeholder">[Devang /
+LEGAL ENTITY NAME]</span>, <span class="placeholder">J & K</span>.
+Each school using AURAED SCHOOL manages its own students, staff, and
+records — we operate the platform that makes this possible, and each
+school controls who has access to their own school's information.
+</p>
+
+<h2>Information we collect</h2>
+<p>What's collected depends on your role. This is a complete list — we
+don't collect anything beyond what's needed to run the features below.</p>
+
+<h3>Account &amp; identity information</h3>
+<ul>
+  <li>Name, email address, phone number, and password (stored securely — we never store your password in readable form)</li>
+  <li>Your role at the school (School Admin, Teacher, Parent, Student, Driver, etc.)</li>
+  <li>For students: admission number, class, section, and (where provided by the school) date of birth and guardian details</li>
+  <li>For staff: employee ID, department, role title, and joining date</li>
+</ul>
+
+<h3>Academic &amp; attendance records</h3>
+<ul>
+  <li>Daily attendance records</li>
+  <li>Homework, assignments, study materials, and grades/marks</li>
+  <li>Exam results, report cards, and exam seating assignments</li>
+  <li>Timetable and class/subject assignments</li>
+</ul>
+
+<h3>Financial records</h3>
+<ul>
+  <li>Fee payment records and receipts (for students)</li>
+  <li>Salary and payslip records (for teachers and staff who are paid through the platform)</li>
+</ul>
+
+<h3>Location information</h3>
+<p>We only ever collect location in these two specific situations, and only while you're actively using the relevant feature:</p>
+<ul>
+  <li><b>Teacher attendance (Punch In/Out):</b> if your school has enabled geofencing, your device's location is checked once at the moment you punch in or out, to confirm you're at the school. We do not track your location at any other time.</li>
+  <li><b>Bus tracking:</b> if you're a driver and choose to turn on location sharing during your route, your vehicle's location updates periodically until you turn sharing off. This is visible only to parents/students whose child is assigned to that specific route, so they can see the bus's current position.</li>
+</ul>
+<p>We do not track anyone's location continuously or in the background, and location is never used for advertising or sold to anyone.</p>
+
+<h3>Communications</h3>
+<ul>
+  <li>Messages, announcements, and circulars sent within the platform</li>
+  <li>Grievances submitted by parents or students (kept confidential — see below)</li>
+  <li>Survey responses</li>
+</ul>
+
+<h3>Files you upload</h3>
+<ul>
+  <li>Homework/assignment attachments, study materials, circular attachments, and the school's own logo</li>
+</ul>
+
+<h3>Technical information</h3>
+<ul>
+  <li>Basic device and connection information needed to operate the app (e.g. whether you're online, to support offline attendance syncing)</li>
+</ul>
+
+<h2>Children's data</h2>
+<p>
+AURAED SCHOOL is used by schools to manage student records, which
+means it processes personal data belonging to children. Schools set up
+and manage student accounts as part of the normal school administration
+relationship they already have with parents/guardians (for example,
+through enrollment) — AURAED SCHOOL itself does not collect data
+directly from children outside of that school relationship, and does
+not knowingly allow a child to create their own account independently
+of their school.
+</p>
+<p>
+In India, the Digital Personal Data Protection Act, 2023 treats anyone
+under 18 as a child and requires verifiable parental or guardian
+consent before their personal data is processed. Schools using AURAED
+SCHOOL are responsible for obtaining and managing that consent as part
+of their own enrollment and school-policy processes; we support this by
+giving schools full control over what student data is entered, who can
+see it, and the ability to remove a student's data on request.
+</p>
+<p>We never use children's data for advertising, behavioral tracking, or profiling of any kind.</p>
+
+<h2>How we use this information</h2>
+<ul>
+  <li>To operate the features each role uses — attendance, homework, grades, fees, communication, and so on</li>
+  <li>To send notifications relevant to you (e.g. a new homework post, a fee reminder, a message)</li>
+  <li>To keep the platform secure and prevent misuse</li>
+  <li>To generate documents you request, like report cards, payslips, receipts, and certificates</li>
+</ul>
+<p>We do not use your data for advertising, and we do not sell personal data to anyone.</p>
+
+<h2>Who can see your information</h2>
+<ul>
+  <li><b>Within your own school only.</b> A school's data is never visible to another school on the platform, under any circumstance.</li>
+  <li><b>Role-based access.</b> Within a school, each person only sees what their role needs — for example, a parent only sees their own child's records, and a teacher cannot see another teacher's salary.</li>
+  <li><b>Grievances are confidential</b> — a staff member named in a grievance is never automatically shown it.</li>
+</ul>
+
+<h2>Where your data is stored</h2>
+<p>
+AURAED SCHOOL is built on Supabase, a secure cloud database and
+storage provider. Data is protected with row-level security rules that
+enforce the access boundaries described above at the database level,
+not just in the app's screens. Uploaded files (attachments, logos) are
+stored in Supabase's file storage with the same access controls.
+</p>
+
+<h2>How long we keep your data</h2>
+<p>
+We retain data for as long as your school's account is active, or as
+needed to comply with legal, tax, and educational record-keeping
+requirements. If a school stops using AURAED SCHOOL, or asks us to
+delete a specific record, we do so — deletions are permanent and cannot
+be undone once completed.
+</p>
+
+<h2>Your rights</h2>
+<p>Depending on your role and applicable law, you may have the right to:</p>
+<ul>
+  <li>Ask what data we hold about you</li>
+  <li>Ask for corrections to inaccurate data</li>
+  <li>Ask for your data to be deleted, subject to your school's own record-keeping obligations</li>
+</ul>
+<p>
+For students and parents, these requests should usually go through
+your school first, since your school manages your account. You can
+also contact us directly using the details below.
+</p>
+
+<h2>Third-party services we use</h2>
+<table>
+<tr><th>Service</th><th>What it's used for</th></tr>
+<tr><td>Supabase</td><td>Database, file storage, and authentication</td></tr>
+<tr><td>Google Maps</td><td>Only when you tap "Open in Maps" to view a bus's location — this opens Google Maps directly and is subject to Google's own privacy policy for that action</td></tr>
+</table>
+
+<h2>Changes to this policy</h2>
+<p>
+If we make material changes to this policy, we'll update the date at
+the top of this page. Continued use of AURAED SCHOOL after a change
+means you accept the updated policy.
+</p>
+
+<h2>Contact us</h2>
+<p>
+Questions about this policy, or a request about your data, can be sent
+to: <span class="placeholder">devanantnag@gmail.com</span>
+</p>
+
+<footer>
+-------------------------------------------
+</footer>
+
+</div>
+</body>
+</html>
